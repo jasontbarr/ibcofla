@@ -1,0 +1,48 @@
+﻿#header h1 {
+ text-align: center;
+ color: white;
+ font-family: Arial, Helvetica, sans-serif;
+ font-weight: lighter;
+ letter-spacing: 2px;
+}
+
+#header ul {
+    text-align: center;
+    margin-top: 30px;
+    margin-right: 20px;
+}
+
+#header a{
+    color: white;
+}
+#header li {
+    
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    list-style-type: none;
+    display: inline;
+    padding: 20px;
+    letter-spacing: 1px;
+    text-decoration: underline;
+}
+
+#header {
+    padding: 50px;
+    background-color: lightblue;
+}
+
+
+#footer {
+    padding: 50px;
+    background-color: #E6E6E6;
+    color: black;
+    font-weight: bolder;
+   
+   
+   
+}
+
+address {
+    margin-left: 80px;
+}
